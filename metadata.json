@@ -1,0 +1,6 @@
+{
+  "name": "Personalized Fitness & Nutrition Tracker",
+  "description": "A full-stack fitness and nutrition companion that generates personalized workout routines, tracks meals using AI, connects to wearable heart rate monitors, and sends motivational push notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
