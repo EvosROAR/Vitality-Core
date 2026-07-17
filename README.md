@@ -1,20 +1,12 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🏅 VitalityCore
 
-# Run and deploy your AI Studio app
+VitalityCore is an advanced, full-stack personal fitness, nutrition, and biometric tracking ecosystem. Styled with an immersive high-contrast slate-dark aesthetic, it leverages AI to deliver real-time personalized plans, macro calculations, and synchronized wearable alerts.
 
-This contains everything you need to run your app locally.
+## ✨ Core Features
 
-View your app in AI Studio: https://ai.studio/apps/dbbfd25c-63bb-4371-a53e-c14142d3948d
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+*   **⚡ AI Workout Generator** – Instant customized routines generated via Gemini based on target muscle focus and fitness experience.
+*   **🥗 Intelligent Nutrition Companion** – Interactive meal tracking with instant protein, carb, fat, and calorie breakdowns.
+*   **💓 Wearable & Pulse Synchronization** – Live simulation of wearable heart rate monitors, showcasing real-time zone training feedback and anomaly warning thresholds.
+*   **🏆 Athlete Accounts & Gamified XP** – Full local sign-in/registration flow complete with level progressions, achievement badges, and streak mechanics.
+*   **🔔 Real-Time Alert Inbox** – Smart internal push notification log detailing heart rate updates, water breaks, and personalized coaching motivation.
+*   **💬 Integrated Social Hub** – Custom card designer to export workouts, share active targets with friends, and view community leaderboards.
